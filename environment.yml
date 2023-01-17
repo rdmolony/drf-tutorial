@@ -1,0 +1,7 @@
+name: drf-tutorial
+channels:
+  - conda-forge
+dependencies:
+  - django
+  - djangorestframework
+  - conda-lock
