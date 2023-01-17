@@ -6,7 +6,7 @@ from drf_yasg import openapi
 from rest_framework import permissions
 from rest_framework import routers
 
-from tutorial.quickstart import views
+from drf_tutorial.quickstart import views
 
 router = routers.DefaultRouter()
 router.register(r'users', views.UserViewSet)

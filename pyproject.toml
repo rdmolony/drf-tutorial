@@ -3,7 +3,6 @@ name = "drf-tutorial"
 version = "0.1.0"
 description = "Working through https://www.django-rest-framework.org/tutorial/quickstart/ ..."
 authors = ["Rowan Molony <rowan.molony@mainstreamrp.com>"]
-readme = "README.md"
 packages = [{include = "drf_tutorial"}]
 
 [tool.poetry.dependencies]
